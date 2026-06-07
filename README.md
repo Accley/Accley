@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Accley
-- 👀 I’m interested in coding ...
-- 🌱 I’m a data scientist....
-- 💞️ I’m looking to collaborate on system building and data based activities...
-- 📫 Contact me by email!! (achileusshija@gmail.com)...
-- 😄  ...
-- ⚡  ...
+# Telecom Churn Prediction
+A machine learning web app that predicts customer churn for telecom companies.
+Built with Python (scikit-learn, Flask), with a trained classification model served via a REST API and interactive dashboard.
 
-<!---
-Accley/Accley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Features
+- Data preprocessing & feature engineering
+- Trained ML model (classification)
+- Flask web interface for real-time predictions
+- SQLite database for logging predictions
+
+## Stack
+Python | Flask | scikit-learn | SQLite | HTML/CSS/JS
